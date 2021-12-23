@@ -100,7 +100,7 @@ else:
     print('Bạn nên giảm chế độ ăn của mình.')
 print(" Chào cả nhà iu")
 print("mình là Nhi 11 tuổi")
-
+print("sao hok được ta")
 
 
 
